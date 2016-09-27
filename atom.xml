@@ -4,9 +4,9 @@
   <subtitle>汤姆猫的两分田</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://carotin.github.io/"/>
+  <link href="http://www.smallcat.me/"/>
   <updated>2016-09-26T08:03:41.139Z</updated>
-  <id>https://carotin.github.io/</id>
+  <id>http://www.smallcat.me/</id>
   
   <author>
     <name>Tomcat</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>搭建Hexo博客笔记</title>
-    <link href="https://carotin.github.io/2016/09/26/github-hexo-blog/"/>
-    <id>https://carotin.github.io/2016/09/26/github-hexo-blog/</id>
+    <link href="http://www.smallcat.me/2016/09/26/github-hexo-blog/"/>
+    <id>http://www.smallcat.me/2016/09/26/github-hexo-blog/</id>
     <published>2016-09-26T04:39:04.000Z</published>
     <updated>2016-09-26T08:03:41.139Z</updated>
     
@@ -59,17 +59,17 @@
     
     </summary>
     
-      <category term="杂记" scheme="https://carotin.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
+      <category term="杂记" scheme="http://www.smallcat.me/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
-      <category term="Hexo" scheme="https://carotin.github.io/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://www.smallcat.me/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hello Hexo</title>
-    <link href="https://carotin.github.io/2016/09/24/hello-hexo/"/>
-    <id>https://carotin.github.io/2016/09/24/hello-hexo/</id>
+    <link href="http://www.smallcat.me/2016/09/24/hello-hexo/"/>
+    <id>http://www.smallcat.me/2016/09/24/hello-hexo/</id>
     <published>2016-09-24T04:11:04.000Z</published>
     <updated>2016-09-24T19:14:53.000Z</updated>
     
@@ -92,10 +92,10 @@
     
     </summary>
     
-      <category term="杂记" scheme="https://carotin.github.io/categories/%E6%9D%82%E8%AE%B0/"/>
+      <category term="杂记" scheme="http://www.smallcat.me/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
-      <category term="Hexo" scheme="https://carotin.github.io/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://www.smallcat.me/tags/Hexo/"/>
     
   </entry>
   
