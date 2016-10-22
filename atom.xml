@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.smallcat.me/"/>
-  <updated>2016-09-27T09:40:06.152Z</updated>
+  <updated>2016-10-22T10:43:01.020Z</updated>
   <id>http://www.smallcat.me/</id>
   
   <author>
@@ -16,11 +16,49 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>整理了些Gsnova使用链接</title>
+    <link href="http://www.smallcat.me/2016/10/22/snova-some-issues/"/>
+    <id>http://www.smallcat.me/2016/10/22/snova-some-issues/</id>
+    <published>2016-10-22T05:02:00.000Z</published>
+    <updated>2016-10-22T10:43:01.020Z</updated>
+    
+    <content type="html"><![CDATA[<p>整理了些关于<code>Gsnova</code>服务端部署和客户端配置链接，耐心阅读后，可熟悉<code>Gsnova</code>各个模式使用：</p>
+<ul>
+<li><a href="https://github.com/phuslu/goproxy/issues/991" target="_blank" rel="external">phuslu/goproxy#991</a></li>
+<li><a href="https://github.com/phuslu/goproxy/issues/1037" target="_blank" rel="external">phuslu/goproxy#1037</a></li>
+<li><a href="https://github.com/yinqiwen/gsnova/pull/32" target="_blank" rel="external">yinqiwen/gsnova#32</a></li>
+<li><a href="https://github.com/yinqiwen/gsnova/issues/38" target="_blank" rel="external">yinqiwen/gsnova#38</a></li>
+<li><a href="https://github.com/yinqiwen/gsnova/commit/e56a5095d2a5a1b9ca83d86061885bd5b5887f5c" target="_blank" rel="external">yinqiwen/gsnova@e56a509</a></li>
+<li><a href="https://github.com/yinqiwen/gsnova/commit/54e857c7c7e1b7996f88d075b0b1ec2a9d1d2361" target="_blank" rel="external">yinqiwen/gsnova@54e857c</a></li>
+<li><a href="https://github.com/yinqiwen/gsnova/commit/f23d59353e26d4a5463932f131be2779d62666d7" target="_blank" rel="external">yinqiwen/gsnova@f23d593</a></li>
+<li><a href="https://github.com/yinqiwen/gsnova/commit/274dcd8a951354c2d5dc4fa5eb1c4c02fcd1087e" target="_blank" rel="external">yinqiwen/gsnova@274dcd8</a></li>
+</ul>
+<p>另外有个<code>Taskbar</code>小工具，可以将<code>Gsnova</code>最小化托盘：</p>
+<p>下载：<a href="https://github.com/kxjhlele/v2ray-taskbar/releases/download/0.2/v2ray-taskbar.zip" target="_blank" rel="external">Taskbar</a></p>
+<p>解压后放在<code>Gsnova</code>同一个目录内，然后将<code>gsnova.exe</code>重命名为<code>v2ray.exe</code>，运行<code>v2ray-taskbar.exe</code>就可以了。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;整理了些关于&lt;code&gt;Gsnova&lt;/code&gt;服务端部署和客户端配置链接，耐心阅读后，可熟悉&lt;code&gt;Gsnova&lt;/code&gt;各个模式使用：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/phuslu/goproxy/issues
+    
+    </summary>
+    
+      <category term="翻越" scheme="http://www.smallcat.me/categories/%E7%BF%BB%E8%B6%8A/"/>
+    
+    
+      <category term="Gsnova" scheme="http://www.smallcat.me/tags/Gsnova/"/>
+    
+  </entry>
+  
+  <entry>
     <title>搭建Hexo博客笔记</title>
     <link href="http://www.smallcat.me/2016/09/26/github-hexo-blog/"/>
     <id>http://www.smallcat.me/2016/09/26/github-hexo-blog/</id>
     <published>2016-09-26T04:39:04.000Z</published>
-    <updated>2016-09-27T09:40:06.152Z</updated>
+    <updated>2016-09-27T09:40:06.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="建立本地站点"><a href="#建立本地站点" class="headerlink" title="建立本地站点"></a>建立本地站点</h2><h3 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h3><blockquote>
 <ul>
@@ -67,11 +105,11 @@
   </entry>
   
   <entry>
-    <title>Hello Hexo</title>
-    <link href="http://www.smallcat.me/2016/09/24/hello-hexo/"/>
-    <id>http://www.smallcat.me/2016/09/24/hello-hexo/</id>
+    <title>Hello Earth</title>
+    <link href="http://www.smallcat.me/2016/09/24/hello-earth/"/>
+    <id>http://www.smallcat.me/2016/09/24/hello-earth/</id>
     <published>2016-09-24T04:11:04.000Z</published>
-    <updated>2016-09-24T19:14:53.000Z</updated>
+    <updated>2016-10-22T10:41:55.288Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <p>+<a id="more"></a></p>
