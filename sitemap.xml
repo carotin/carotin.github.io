@@ -3,7 +3,7 @@
 
     <sitemap>
         <loc>http://www.smallcat.me/post-sitemap.xml</loc>
-        <lastmod>2016-10-22T10:43:01.020Z</lastmod>
+        <lastmod>2016-10-22T10:57:08.508Z</lastmod>
     </sitemap>
 
     <sitemap>
@@ -13,12 +13,12 @@
 
     <sitemap>
         <loc>http://www.smallcat.me/category-sitemap.xml</loc>
-        <lastmod>2016-10-22T10:41:55.288Z</lastmod>
+        <lastmod>2016-10-22T10:56:57.132Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://www.smallcat.me/tag-sitemap.xml</loc>
-        <lastmod>2016-10-22T10:41:55.288Z</lastmod>
+        <lastmod>2016-10-22T10:56:57.132Z</lastmod>
     </sitemap>
 
 </sitemapindex>
