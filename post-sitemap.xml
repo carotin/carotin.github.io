@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://www.smallcat.me</loc>
+        <loc>http://www.smallcat.tech</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://www.smallcat.me/2016/09/26/github-hexo-blog/</loc>
+        <loc>http://www.smallcat.tech/2016/09/26/github-hexo-blog/</loc>
         <lastmod>2016-10-25T13:40:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -15,7 +15,7 @@
     </url>
 
     <url>
-        <loc>http://www.smallcat.me/2016/10/22/gsnova-some-issues/</loc>
+        <loc>http://www.smallcat.tech/2016/10/22/gsnova-some-issues/</loc>
         <lastmod>2016-10-25T13:25:41.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -23,7 +23,7 @@
     </url>
 
     <url>
-        <loc>http://www.smallcat.me/2016/09/24/hello-earth/</loc>
+        <loc>http://www.smallcat.tech/2016/09/24/hello-earth/</loc>
         <lastmod>2016-10-22T10:41:55.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
