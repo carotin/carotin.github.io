@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://www.smallcat.tech</loc>
+        <loc>http://www.angelcat.pl</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://www.smallcat.tech/categories/%E7%BF%BB%E8%B6%8A/</loc>
+        <loc>http://www.angelcat.pl/categories/%E7%BF%BB%E8%B6%8A/</loc>
         <lastmod>2016-10-25T13:25:41.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://www.smallcat.tech/categories/%E6%9D%82%E8%AE%B0/</loc>
+        <loc>http://www.angelcat.pl/categories/%E6%9D%82%E8%AE%B0/</loc>
         <lastmod>2017-11-14T20:59:29.453Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

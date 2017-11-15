@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://www.smallcat.tech/post-sitemap.xml</loc>
+        <loc>http://www.angelcat.pl/post-sitemap.xml</loc>
         <lastmod>2017-11-14T20:59:29.453Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://www.smallcat.tech/page-sitemap.xml</loc>
+        <loc>http://www.angelcat.pl/page-sitemap.xml</loc>
         <lastmod>2017-02-19T10:23:05.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://www.smallcat.tech/category-sitemap.xml</loc>
+        <loc>http://www.angelcat.pl/category-sitemap.xml</loc>
         <lastmod>2016-10-25T13:25:41.000Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://www.smallcat.tech/tag-sitemap.xml</loc>
+        <loc>http://www.angelcat.pl/tag-sitemap.xml</loc>
         <lastmod>2016-10-25T13:25:41.000Z</lastmod>
     </sitemap>
 

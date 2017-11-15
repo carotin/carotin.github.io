@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>SmallCat&#39;Blog</title>
-  <subtitle>汤姆猫的两分田</subtitle>
+  <title>Angelcat&#39;Blog</title>
+  <subtitle>夜猫的两分田</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.smallcat.tech/"/>
+  <link href="http://www.angelcat.pl/"/>
   <updated>2017-11-14T20:59:29.453Z</updated>
-  <id>http://www.smallcat.tech/</id>
+  <id>http://www.angelcat.pl/</id>
   
   <author>
     <name>Tomcat</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Nazwa 域名注册商更换 DNS 方法</title>
-    <link href="http://www.smallcat.tech/2017/11/13/change-domain-dns-server-for-nazwa/"/>
-    <id>http://www.smallcat.tech/2017/11/13/change-domain-dns-server-for-nazwa/</id>
+    <link href="http://www.angelcat.pl/2017/11/13/change-domain-dns-server-for-nazwa/"/>
+    <id>http://www.angelcat.pl/2017/11/13/change-domain-dns-server-for-nazwa/</id>
     <published>2017-11-13T12:33:43.000Z</published>
     <updated>2017-11-14T20:59:29.453Z</updated>
     
@@ -56,17 +56,17 @@
     
     </summary>
     
-      <category term="杂记" scheme="http://www.smallcat.tech/categories/%E6%9D%82%E8%AE%B0/"/>
+      <category term="杂记" scheme="http://www.angelcat.pl/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
-      <category term="domain" scheme="http://www.smallcat.tech/tags/domain/"/>
+      <category term="domain" scheme="http://www.angelcat.pl/tags/domain/"/>
     
   </entry>
   
   <entry>
     <title>整理了些Gsnova使用链接</title>
-    <link href="http://www.smallcat.tech/2016/10/22/gsnova-some-issues/"/>
-    <id>http://www.smallcat.tech/2016/10/22/gsnova-some-issues/</id>
+    <link href="http://www.angelcat.pl/2016/10/22/gsnova-some-issues/"/>
+    <id>http://www.angelcat.pl/2016/10/22/gsnova-some-issues/</id>
     <published>2016-10-22T05:02:00.000Z</published>
     <updated>2016-10-25T13:25:41.000Z</updated>
     
@@ -103,17 +103,17 @@
     
     </summary>
     
-      <category term="翻越" scheme="http://www.smallcat.tech/categories/%E7%BF%BB%E8%B6%8A/"/>
+      <category term="翻越" scheme="http://www.angelcat.pl/categories/%E7%BF%BB%E8%B6%8A/"/>
     
     
-      <category term="Gsnova" scheme="http://www.smallcat.tech/tags/Gsnova/"/>
+      <category term="Gsnova" scheme="http://www.angelcat.pl/tags/Gsnova/"/>
     
   </entry>
   
   <entry>
     <title>搭建Hexo博客笔记</title>
-    <link href="http://www.smallcat.tech/2016/09/26/github-hexo-blog/"/>
-    <id>http://www.smallcat.tech/2016/09/26/github-hexo-blog/</id>
+    <link href="http://www.angelcat.pl/2016/09/26/github-hexo-blog/"/>
+    <id>http://www.angelcat.pl/2016/09/26/github-hexo-blog/</id>
     <published>2016-09-26T04:39:04.000Z</published>
     <updated>2016-10-25T13:40:22.000Z</updated>
     
@@ -154,17 +154,17 @@
     
     </summary>
     
-      <category term="杂记" scheme="http://www.smallcat.tech/categories/%E6%9D%82%E8%AE%B0/"/>
+      <category term="杂记" scheme="http://www.angelcat.pl/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
-      <category term="Hexo" scheme="http://www.smallcat.tech/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://www.angelcat.pl/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hello Earth</title>
-    <link href="http://www.smallcat.tech/2016/09/24/hello-earth/"/>
-    <id>http://www.smallcat.tech/2016/09/24/hello-earth/</id>
+    <link href="http://www.angelcat.pl/2016/09/24/hello-earth/"/>
+    <id>http://www.angelcat.pl/2016/09/24/hello-earth/</id>
     <published>2016-09-24T04:11:04.000Z</published>
     <updated>2016-10-22T10:41:55.000Z</updated>
     
@@ -187,10 +187,10 @@
     
     </summary>
     
-      <category term="杂记" scheme="http://www.smallcat.tech/categories/%E6%9D%82%E8%AE%B0/"/>
+      <category term="杂记" scheme="http://www.angelcat.pl/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
-      <category term="Hexo" scheme="http://www.smallcat.tech/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://www.angelcat.pl/tags/Hexo/"/>
     
   </entry>
   
