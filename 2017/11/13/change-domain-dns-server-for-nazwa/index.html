@@ -427,24 +427,27 @@
 
 
     
-      <div class="duoshuo" id="comments">
-    <div id="comment-box" ></div>
-    <div class="ds-thread" id="ds-thread" data-thread-key="2017/11/13/change-domain-dns-server-for-nazwa/" data-title="Nazwa 域名注册商更换 DNS 方法" data-url="http://www.angelcat.pl/2017/11/13/change-domain-dns-server-for-nazwa/"></div>
+        <section id="comments">
+    <style> aside.comment-bar { margin: auto 30px; }</style>
+    <div id="disqus_thread"></div>
     <script>
-        var duoshuoQuery = {short_name:"null"};
+        var disqus_config = function(){
+            this.page.url = 'http://www.angelcat.pl/2017/11/13/change-domain-dns-server-for-nazwa/';
+            this.page.identifier = '2017/11/13/change-domain-dns-server-for-nazwa/';
+        };
         var loadComment = function(){
             var d = document, s = d.createElement('script');
-            s.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-            s.async = true; s.charset = 'UTF-8';
+            s.src = '//soysauce.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
             (d.head || d.body).appendChild(s);
         }
-
-        
     </script>
     
     <script> loadComment(); </script>
 
-</div>
+</section>
+
+
     
 
 
