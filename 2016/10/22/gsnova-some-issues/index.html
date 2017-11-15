@@ -443,27 +443,24 @@ y">
 
 
     
-        <section id="comments">
-    <style> aside.comment-bar { margin: auto 30px; }</style>
-    <div id="disqus_thread"></div>
+      <div class="duoshuo" id="comments">
+    <div id="comment-box" ></div>
+    <div class="ds-thread" id="ds-thread" data-thread-key="2016/10/22/gsnova-some-issues/" data-title="整理了些Gsnova使用链接" data-url="http://www.angelcat.pl/2016/10/22/gsnova-some-issues/"></div>
     <script>
-        var disqus_config = function(){
-            this.page.url = 'http://www.angelcat.pl/2016/10/22/gsnova-some-issues/';
-            this.page.identifier = '2016/10/22/gsnova-some-issues/';
-        };
+        var duoshuoQuery = {short_name:"null"};
         var loadComment = function(){
             var d = document, s = d.createElement('script');
-            s.src = '//soysauce.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
+            s.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+            s.async = true; s.charset = 'UTF-8';
             (d.head || d.body).appendChild(s);
         }
+
+        
     </script>
     
     <script> loadComment(); </script>
 
-</section>
-
-
+</div>
     
 
 
