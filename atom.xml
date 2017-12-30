@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.angelcat.pl/"/>
-  <updated>2017-11-15T15:44:38.218Z</updated>
+  <updated>2017-12-30T09:34:20.635Z</updated>
   <id>http://www.angelcat.pl/</id>
   
   <author>
@@ -16,11 +16,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Kali Linux 安装 Shadowsocks-qt5</title>
+    <link href="http://www.angelcat.pl/2017/12/29/kali-install-shadowsocks-qt5/"/>
+    <id>http://www.angelcat.pl/2017/12/29/kali-install-shadowsocks-qt5/</id>
+    <published>2017-12-29T02:21:51.000Z</published>
+    <updated>2017-12-30T09:34:20.635Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="安装需要的依赖包："><a href="#安装需要的依赖包：" class="headerlink" title="安装需要的依赖包："></a>安装需要的依赖包：</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">sudo apt-get install qt5-qmake qtbase5-dev libqrencode-dev libappindicator-dev libzbar-dev</div></pre></td></tr></table></figure>
+<h2 id="如果还少依赖包使用："><a href="#如果还少依赖包使用：" class="headerlink" title="如果还少依赖包使用："></a>如果还少依赖包使用：</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">apt-get -f install</div></pre></td></tr></table></figure>
+<h2 id="下载编译好的-省去用dpkg生成deb包："><a href="#下载编译好的-省去用dpkg生成deb包：" class="headerlink" title="下载编译好的 省去用dpkg生成deb包："></a>下载编译好的 省去用dpkg生成deb包：</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git clone https://github.com/try1try/shadowsocks-qt5.git</div></pre></td></tr></table></figure>
+<h2 id="依次执行安装五个deb包"><a href="#依次执行安装五个deb包" class="headerlink" title="依次执行安装五个deb包"></a>依次执行安装五个deb包</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">dpkg -i libssl1.0.0_1.0.1t-1+deb8u7_amd64.deb</div><div class="line">dpkg -i libbotan-1.10-0_1.10.8-2+deb8u1_amd64.deb</div><div class="line">dpkg -i libqtshadowsocks_1.10.0-1_amd64.deb</div><div class="line">dpkg -i libqtshadowsocks-dev_1.10.0-1_amd64.deb</div><div class="line">dpkg -i shadowsocks-qt5_2.8.0-1_amd64.deb</div></pre></td></tr></table></figure>
+<p>参考：<a href="http://blog.csdn.net/hardhard123/article/details/78066084" target="_blank" rel="external">http://blog.csdn.net/hardhard123/article/details/78066084</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;安装需要的依赖包：&quot;&gt;&lt;a href=&quot;#安装需要的依赖包：&quot; class=&quot;headerlink&quot; title=&quot;安装需要的依赖包：&quot;&gt;&lt;/a&gt;安装需要的依赖包：&lt;/h2&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;t
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://www.angelcat.pl/categories/Linux/"/>
+    
+    
+      <category term="SS" scheme="http://www.angelcat.pl/tags/SS/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Nazwa 域名注册商更换 DNS 方法</title>
     <link href="http://www.angelcat.pl/2017/11/13/change-domain-dns-server-for-nazwa/"/>
     <id>http://www.angelcat.pl/2017/11/13/change-domain-dns-server-for-nazwa/</id>
     <published>2017-11-13T12:33:43.000Z</published>
-    <updated>2017-11-15T15:44:38.218Z</updated>
+    <updated>2017-11-15T15:44:38.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>双十一期间 <a href="https://www.nazwa.pl/" target="_blank" rel="external">Nazwa.pl</a> 波兰最大互联网服务提供商推出免费注册 <code>.pl</code> 后缀域名优惠活动。虽然不太喜欢这后缀，但忍不住注册了两个。不过两天过后没有一个域名 <code>NS</code> 生效，一直在队列注册中……于是发一封邮件过去询问，几小时后回邮件并通过了审核，服务效率蛮快的。</p>
 <p>废话一堆言归正传，因为该服务商没有提供其它语言选项，后台面板又与传统不同，所以只好找其他代替 <code>DNS</code> 解析服务了。</p>

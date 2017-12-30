@@ -7,8 +7,16 @@
     </url>
 
     <url>
+        <loc>http://www.angelcat.pl/2017/12/29/kali-install-shadowsocks-qt5/</loc>
+        <lastmod>2017-12-30T09:34:20.635Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://www.angelcat.pl/2017/11/13/change-domain-dns-server-for-nazwa/</loc>
-        <lastmod>2017-11-15T15:44:38.218Z</lastmod>
+        <lastmod>2017-11-15T15:44:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
